@@ -36,7 +36,7 @@ We've successfully tested our system with real transactions:
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/TakhiSol/jito-shredstream-pumpfun-sniper.git
+git clone https://github.com/z3roai/jito-shredstream-pumpfun-sniper.git
 cd jito-shredstream-pumpfun-sniper
 ```
 
@@ -121,7 +121,7 @@ We warmly welcome contributions from the community! Please feel free to open an 
 ### Get in Touch
 We're always here to help! Feel free to reach out with any questions, suggestions, or feedback. Your input is invaluable to us.
 
-**📱 Telegram:** [Takhi77](https://t.me/hi_3333)
+**📱 Telegram:** [Takhi77](https://t.me/ferris_dev)
 
 ---
 
